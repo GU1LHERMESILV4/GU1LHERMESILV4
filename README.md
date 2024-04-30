@@ -1,27 +1,24 @@
-🌟 Entusiasta em busca de oportunidades para aprender e crescer
+## Eu sou o Guilherme, Programador Iniciante e Estudante de ADS !!
 
-Sou um profissional entusiasmado e dedicado, graduando em Análise e Desenvolvimento de Sistemas. Apesar da falta de experiência profissional formal, trago uma paixão genuína pela tecnologia, ansioso para aplicar os conhecimentos adquiridos durante meus estudos de forma prática.
+💻 Sou um desenvolvedor apaixonado por criar experiências completas e integradas para aplicativos da web.
 
-📚 Educação sólida em Tecnologia
+🔍 Estou constantemente aprimorando minhas habilidades tanto no Front-end quanto no Back-End, buscando oferecer soluções completas e eficientes.
 
-Graduando em Análise e Desenvolvimento de Sistemas na FMU | FIAM-FAAM - Campus Liberdade, onde desenvolvo uma base sólida em Java, Kotlin, Javascript, entre outros. Minha formação acadêmica me proporciona insights valiosos e habilidades que estou ansioso para aplicar em um ambiente profissional.
+🤝 Estou sempre em busca de novas oportunidades de colaboração e projetos desafiadores!
 
-🔄 Habilidades Transferíveis e Vontade de Aprender
 
-Possuo habilidades transferíveis, como comunicação, trabalho em equipe, resolução de problemas, adquiridas durante projetos acadêmicos e atividades extracurriculares. Estou motivado para aprender rapidamente e estou aberto a desafios que contribuam para meu crescimento profissional.
-
-🔍 Explorando Oportunidades de Estágio ou Aprendizado
-
-Estou em busca de oportunidades de estágio ou aprendizado que me permitam mergulhar no ambiente profissional e expandir meu conjunto de habilidades. Estou confiante de que minha atitude proativa, ética de trabalho e compromisso podem trazer uma perspectiva valiosa para qualquer equipe.
-
-🌐 Networking e Conexões Profissionais
-
-Além de buscar oportunidades profissionais, estou interessado em expandir minha rede de contatos. Estou aberto a conversas, mentorias e conselhos de profissionais experientes que possam orientar meu desenvolvimento e compartilhar suas experiências.
-
-🚀 Comprometido com o Crescimento Pessoal e Profissional
-
-Estou comprometido com meu contínuo crescimento pessoal e profissional. Pronto para enfrentar desafios, aprender com as experiências e contribuir de maneira significativa para a equipe.
-
-📧 Contato: guiantoni596@gmail.com | (11) 98892-6548 | 
-
-Estou entusiasmado para explorar oportunidades e ansioso para conectar-me com profissionais inspiradores.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/oguisilva__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guiantoni596@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oguisilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
