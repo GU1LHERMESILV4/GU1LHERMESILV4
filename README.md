@@ -1,4 +1,4 @@
-## Eu sou o Guilherme, Programador Iniciante e Estudante de ADS !!
+## Eu sou o Guilherme, Desenvolvedor Back-End e Estagiário na FIAP !!
 
 💻 Sou um desenvolvedor apaixonado por criar experiências completas e integradas para aplicativos da web.
 
