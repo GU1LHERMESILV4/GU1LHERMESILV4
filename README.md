@@ -8,6 +8,18 @@
 
 🤝 Estou sempre em busca de novas oportunidades de colaboração e projetos desafiadores!
 
+</p>
+
+#### Back-End:
+
+<p align='left'>
+<img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50" width="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring" height="50" width="50" />
+<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="50" width="50" />
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Spring" height="50" width="50" />
+
+</p>
+
 #### Front-End:
 
 <p align='left'>
@@ -15,18 +27,6 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
 
-</p>
-
-#### Back-End:
-
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" />   
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
-
-</p>
-
-  
   ##
  
 <div> 
