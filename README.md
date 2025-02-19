@@ -1,6 +1,6 @@
 ![1727455207783](https://github.com/user-attachments/assets/d0a41127-8d70-40f9-a87a-e25c2d4b69e2)
 
-## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na FIAP! ☕🚀
+## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na FIAP! ☕
 
 💻 Sou apaixonado por desenvolver soluções robustas e escaláveis em Java, criando sistemas integrados e eficientes para diversas aplicações.
 
