@@ -1,6 +1,6 @@
-![1727455207783](https://github.com/user-attachments/assets/d0a41127-8d70-40f9-a87a-e25c2d4b69e2)
+![1727455207783](https://media.licdn.com/dms/image/v2/D4D16AQHA06cpIVvg0g/profile-displaybackgroundimage-shrink_350_1400/B4DZetCOmKGkAo-/0/1750954732744?e=1757548800&v=beta&t=_GExoXsmO0JhakFusMgiVAF0-6O6GkidCTL67Gtlls0)
 
-## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na FIAP! ☕
+## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na Alun! ☕
 
 💻 Sou apaixonado por desenvolver soluções robustas e escaláveis em Java, criando sistemas integrados e eficientes para diversas aplicações.
 
@@ -14,8 +14,12 @@
 
 <p align='left'>
 <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring" height="50" width="50" />
 <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="50" width="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring" height="50" width="50" />
+<img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" alt="Spring Data" height="50" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" width="50" />
+
+  
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Spring" height="50" width="50" />
 
 </p>
