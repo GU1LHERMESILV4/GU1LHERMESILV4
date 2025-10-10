@@ -1,4 +1,4 @@
-![1727455207783](https://media.licdn.com/dms/image/v2/D4D16AQHA06cpIVvg0g/profile-displaybackgroundimage-shrink_350_1400/B4DZetCOmKGkAo-/0/1750954732744?e=1757548800&v=beta&t=_GExoXsmO0JhakFusMgiVAF0-6O6GkidCTL67Gtlls0)
+![1727455207783](https://media.licdn.com/dms/image/v2/D4D16AQHA06cpIVvg0g/profile-displaybackgroundimage-shrink_350_1400/B4DZetCOmKGkAo-/0/1750954732744?e=1762992000&v=beta&t=95Kkl9mERc2CRXc0wLaaBA_xcOkK9BmphnhqVzjDQuQ)
 
 ## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na Alun! ☕
 
