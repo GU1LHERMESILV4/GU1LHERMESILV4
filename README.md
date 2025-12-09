@@ -1,4 +1,5 @@
-![1727455207783](https://media.licdn.com/dms/image/v2/D4D16AQHA06cpIVvg0g/profile-displaybackgroundimage-shrink_350_1400/B4DZetCOmKGkAo-/0/1750954732744?e=1762992000&v=beta&t=95Kkl9mERc2CRXc0wLaaBA_xcOkK9BmphnhqVzjDQuQ)
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/fcb06fc6-3169-48b4-8896-5bfefc96d184" />
+
 
 ## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na Alun! ☕
 
