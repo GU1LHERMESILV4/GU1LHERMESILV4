@@ -1,4 +1,5 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/fcb06fc6-3169-48b4-8896-5bfefc96d184" />
+<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/b41f02e3-1c5b-4c81-96d2-17960906c8ba" />
+
 
 
 ## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na Alun! ☕
