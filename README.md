@@ -1,8 +1,8 @@
-<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/b41f02e3-1c5b-4c81-96d2-17960906c8ba" />
+<img width="1128" height="191" alt="image" src="https://media.licdn.com/dms/image/v2/D4D16AQHseKnHoFP5yg/profile-displaybackgroundimage-shrink_350_1400/B4DZ226BBcKQAY-/0/1776890155909?e=1779321600&v=beta&t=bL56lKPjagUsWx0G32xsZMuW3kLAtLwOdIHXqZ2yFOQ" />
 
 
 
-## Eu sou o Guilherme, Desenvolvedor Back-End com foco em Java e Estagiário na Alun! ☕
+## Eu sou o Guilherme, Desenvolvedor Java e Trainee na Minsait! ☕
 
 💻 Sou apaixonado por desenvolver soluções robustas e escaláveis em Java, criando sistemas integrados e eficientes para diversas aplicações.
 
@@ -12,32 +12,43 @@
 
 </p>
 
-#### Back-End:
-
-<p align='left'>
-<img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50" width="50" />
-<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="50" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring" height="50" width="50" />
-<img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" alt="Spring Data" height="50" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" width="50" />
-
-  
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Spring" height="50" width="50" />
-
+### Back-End:
+<p align="left">
+  <img src="https://www.svgrepo.com/show/452234/java.svg" height="45"/>
+  <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" height="45"/>
+  <img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" height="45"/>
+  <img src="https://www.svgrepo.com/show/353874/hibernate.svg" height="45"/>
 </p>
 
-#### Front-End:
+### Banco de Dados:
+<p align="left">
+  <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="45"/>
+  <img src="https://dbdb.io/media/logos/h2-logo.svg" height="45"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="45"/>
+  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" height="45"/>
+</p>
 
-<p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+### Front-End:
+<p align="left">
+  <img src="https://www.svgrepo.com/show/452156/angular.svg" height="45"/>
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/master/social%20icons/html5.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/master/social%20icons/css3.svg" height="45"/> 
+</p>
 
   ##
+
+### Redes Sociais:
  
 <div> 
-  <a href="https://www.instagram.com/oguisilva__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guiantoni596@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oguisilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/oguisilva/" target="_blank">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="40" style="margin-left:10px"/>
+  </a> 
+  
+  <a href="https://www.tiktok.com/@oguisilva__?_r=1&_t=ZS-95yLgpynqA1" target="_blank">
+    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338432_1280.png" height="40" style="margin-left:10px"/>
+  </a> 
+</div>
   
 </div>
