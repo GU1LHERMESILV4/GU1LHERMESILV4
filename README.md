@@ -1,4 +1,4 @@
-<img width="1128" height="191" alt="image" src="https://media.licdn.com/dms/image/v2/D4D16AQHseKnHoFP5yg/profile-displaybackgroundimage-shrink_350_1400/B4DZ226BBcKQAY-/0/1776890155909?e=1779321600&v=beta&t=bL56lKPjagUsWx0G32xsZMuW3kLAtLwOdIHXqZ2yFOQ" />
+<img width="1128" height="191" alt="image" src="https://media.ffycdn.net/eu/indra/EoMeAqKW8MTnzMBHWBsc.jpg?width=1776" />
 
 
 
